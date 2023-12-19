@@ -32,3 +32,4 @@ const myfunction = function() {
 }
 
 console.log(typeof anotherId);
+
